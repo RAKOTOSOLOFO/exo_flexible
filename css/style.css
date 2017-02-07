@@ -1,0 +1,47 @@
+
+* {
+
+    margin: 0;
+}
+
+
+ul {
+
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    height:150px;
+    background-color: blue;
+
+}
+
+li {
+    height: 50px;
+    background-color: yellow;
+    list-style: none;
+}
+
+section {
+
+    display: flex;
+    justify-content:space-between;
+
+
+
+
+}
+
+main {
+
+    background-color: black;
+    width: 60%;
+    height: 1000px;
+}
+
+aside{
+
+    background-color: green;
+    width: 25%;
+    height: 1000px;
+
+}
