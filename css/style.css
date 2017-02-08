@@ -1,10 +1,11 @@
 * {
 
     margin: 0;
+    padding: 0;
 }
 
 nav {
-    margin: 5px;
+
     background-color: blue;
     border-radius: 10px;
 }
@@ -13,7 +14,7 @@ ul {
     display: flex;
     justify-content:space-around;
     align-items:center;
-    height:150px;
+
 }
 
 li {
@@ -21,7 +22,7 @@ li {
     background-color:rgb(4, 25, 79);
     list-style: none;
     border-radius:10px;
-    width: 200px;
+
     display: flex;
     align-items: center;
     justify-content: center;
@@ -35,7 +36,7 @@ a {
 section {
     display: flex;
     justify-content: space-around;
-    height: 800px;
+    
     align-items: stretch;
 }
 
